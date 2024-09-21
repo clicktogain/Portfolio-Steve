@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Syne:wght@400..800&display=swap');
+
+:root {
+    --primary-color: #012734;
+    --dark-primary-color: #00121C;
+    --secondary-color: #FE8B21;
+    --light-color: #fff;
+    --primary-font: "Syne", system-ui;
+    --secondary-font: "DM Sans", sans-serif;
+    --title-size: clamp(1.3em, 3vw, 2.5em);
+    --muted-text-color: lightgray;
+}
